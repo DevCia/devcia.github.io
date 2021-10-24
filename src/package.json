@@ -1,5 +1,5 @@
 {
-  "name": "src",
+  "name": "devcia",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,7 +14,7 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "eslint": "8.0.1",
+    "eslint": "8.1.0",
     "eslint-config-next": "11.1.2"
   }
 }
