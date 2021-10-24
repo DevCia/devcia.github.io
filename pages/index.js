@@ -3,7 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 const myLoader = ({src}) => {
-  return `/preprocessed-images/${src}`;
+  return `./${src}`;
 }; 
 export default function Home() {
 
